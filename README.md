@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-👉 [GeneCompare on Streamlit Cloud]() 🚀
+👉 [GeneCompare on Streamlit Cloud](https://genecompare.streamlit.app/) 🚀
 
 ---
 
